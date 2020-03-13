@@ -8,7 +8,7 @@
  *
  *  For classic ASP replacment of i2b2 server proxy of restful URLs
  *
- * /
+ */
 
 //echo phpinfo();  //For debugging your insall
 //Debug your php sql sever dll install, you need to have sqlsrv in your PHP Stream
